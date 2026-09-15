@@ -2413,6 +2413,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1418742879467686269}
+    - target: {fileID: 1253298907173360880, guid: cc7ddc7997ba8b24ca7a698f8860f95b, type: 3}
+      propertyPath: AttackDistance
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 1630068650336299380, guid: cc7ddc7997ba8b24ca7a698f8860f95b, type: 3}
       propertyPath: m_Name
       value: Monster
